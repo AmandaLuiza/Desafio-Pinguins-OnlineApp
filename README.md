@@ -6,3 +6,8 @@ Link do projeto : https://colab.research.google.com/drive/1LRdYYjO2kz8Xk83xlQNWn
 # **Espécies de Pinguins**
 
 ![image](https://user-images.githubusercontent.com/77518236/170279527-466351f7-f7f9-4617-a043-6b69b6b90ed8.png)
+
+**Imagem meramente ilustrativa mostrando as possíveis espécies de pinguins: Adélie, Chinstrap e Gentoo**
+
+
+
