@@ -38,6 +38,10 @@ Link do projeto : https://colab.research.google.com/drive/1LRdYYjO2kz8Xk83xlQNWn
 
 
 
+# Introdução
+
+Essa análise haverá informações coletados das aparências físicas e geográficas das espécies de pinguins Adelie, Chinstrap e Gentoo, que moram as ilhas Torgersen, Biscoe e Dream  (Antártida). Eu peguei parte deste tópico no link abaixo:
+(https://github.com/LucasGabrielB/Desafio-Pinguins-Onlineapp)
 
 ---
 
