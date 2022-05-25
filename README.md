@@ -11,3 +11,37 @@ Link do projeto : https://colab.research.google.com/drive/1LRdYYjO2kz8Xk83xlQNWn
 
 
 
+# Sumário
+
+*   Introdução
+*   Resumo
+
+  *   Importando as Bibliotecas
+  *   Renomeando as colunas da base de dados
+  *   Obtendo informaçoes sobre as características
+    *   Describe
+  *   Quantas Espécies de Pinguins há na base de dados?
+  *   Quantos Pinguins há em cada espécie?
+  *   Quantos Pinguins Machos e Fêmeas há em casa Espécie?
+  *   Qual o número de Pinguins em cada ilha?
+  *   Qual a maior e a menor massa corporal dos dados?
+  *   Qual sexo tem maior massa corporal?
+  *   Correlações
+  *  Acurácia
+    *  Importando as bibliotecas 
+  *  Removendo os dados NaN
+  * Uma nova transformação
+  * Separando as variáveis de treino e teste e aplicando machine learning
+*   Conclusão
+*   Resultados Finais
+*   Referências bibliográficas e citacões
+
+
+
+
+---
+
+
+
+
+
